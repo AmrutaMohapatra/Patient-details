@@ -3,7 +3,7 @@
 
 Data Used :
 
-* Data - Patient Details Data of around 100 patients recorded.
+* Data - Patient Details Data of around 100 rows recorded.
 * Data Cleaning and Analysis - My SQL
 * Data Visualization - PowerBI
 
@@ -21,4 +21,10 @@ Summary of Findings:
 * Medical history of only female patients have been retrieved.
 * Medical history of only female patients have been retrieved.In which male have been more diagonised with diabetes.
 * Female have been more diagonised with diabetes.
-* 
+* There are highest number of people(28) among the patients are diagonised with diabetes.
+* Siana with high cholesterol stayed highest duration in hospital that is 734 days. However, Melody with diabetes and Delia with Hypothyroidism and Roselia with diabetes have been stayed for only 1 day.
+* Diabetes which is mostly found in maimum patient have been devided between both gender as 17 female patients and 11 male patients have been diagonised with diabetes.
+
+
+
+
