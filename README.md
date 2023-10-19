@@ -6,6 +6,7 @@ Data Used :
 * Data - Patient Details Data of around 100 patients recorded.
 * Data Cleaning and Analysis - My SQL
 * Data Visualization - PowerBI
+
 Questions :
 
 * 1- What is the medical history of female patients ?
